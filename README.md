@@ -1,4 +1,4 @@
-#   Data Analyst | Operations Manager | Intermediate & Adaptable Coder | Lifelong Learner
+##   Data Analyst | Operations Manager | Intermediate & Adaptable Coder | Lifelong Learner
 
 👋 Welcome to my GitHub profile! I'm Ankit Gupta, a data enthusiast / ops manager with a strong background in analysing data to optimize business operations and leading successful projects. I'm passionate about data analysis and constantly expanding my skills in this field.
 
